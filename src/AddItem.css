@@ -1,0 +1,12 @@
+.invoice__body {
+  display: flex;
+  /* width: 80vw; */
+}
+
+.invoice__input {
+  padding: 5px;
+}
+
+.exclude {
+  margin-left: -5px;
+}

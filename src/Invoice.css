@@ -1,0 +1,26 @@
+.invoice {
+  display: grid;
+  padding: 10px;
+}
+
+.invoice__header {
+  display: flex;
+  /* padding: 10px; */
+  justify-content: space-between;
+}
+
+.invoice__header > label {
+  padding: 10px;
+}
+
+/* .invoice__header > input {
+  -webkit-appearance: none;
+} */
+
+.invoice__header > p {
+  padding: 10px;
+}
+
+button {
+  padding: 2px;
+}
