@@ -1,3 +1,21 @@
+to use it
+-> npm i
+-> start the server and fill the details
+-> click generate invoice and it will download a pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
